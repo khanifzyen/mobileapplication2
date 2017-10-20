@@ -3,4 +3,6 @@ fun main(args: Array<String>) {
     name="Khanif"
     println(name!!)
     println("Halo")
+    println("Kotlin")
+
 }
